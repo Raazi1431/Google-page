@@ -17,6 +17,7 @@ body {
     border-style: outset;
     border-width: 1px;
     border-color: #F2F3F4;
+    background: url("mic.PNG") no-repeat right 3px;
 }
 .ex4{
    display: inline-block;
